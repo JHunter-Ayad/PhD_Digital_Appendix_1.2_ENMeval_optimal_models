@@ -1,0 +1,9 @@
+variable,Mean,SD,metric
+Terrain Roughness,5.901523333,1.087915584,Percent Contribution
+Soil Classification,14.47890667,1.930997846,Percent Contribution
+Vegetation,50.83732333,2.162323443,Percent Contribution
+Water Balance Ratio,28.78226,1.228496243,Percent Contribution
+Terrain Roughness,10.59353333,2.132906148,Permutation Importance
+Soil Classification,26.92952667,4.031231812,Permutation Importance
+Vegetation,26.90336333,4.182591156,Permutation Importance
+Water Balance Ratio,35.57359667,3.570498796,Permutation Importance
