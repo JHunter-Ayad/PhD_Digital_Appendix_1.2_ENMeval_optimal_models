@@ -2,7 +2,8 @@
 
 This repository is the second digital appendix created to suplement my PhD thesis "Resources to Aid Decision-Making in Conservation Translocations" submitted to the University of Otago in November 2021.
 
-As these digital appendices are not intended to be stand alone, I intend to upload a pdf file of my thesis once it is accepted and finalised to provide further context for the repository content.
+As these digital appendices are not intended to be stand alone, a pdf of my completed thesis is also provided in an accompanying repository.
+
 
 This second appendix provides further details of the optimal versions of correlative habitat suitability models that were averaged to generate the resultss presented in Chapter 4 of my thesis "Predictive Modelling: Relict Distribution Habitat Models".
 
